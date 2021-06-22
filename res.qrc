@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="clock.png">icons/Clock-128.png</file>
+        <file alias="keyboard.svg">icons/Keyboard.svg</file>
+        <file alias="keyboard.png">icons/Keyboard-32.png</file>
+        <file alias="log.png">icons/File-Extension-Log-32.png</file>
+        <file alias="settings.png">icons/Settings-64.png</file>
+        <file alias="update.png">icons/Update-32.png</file>
+        <file alias="save.png">icons/Save-32.png</file>
+        <file alias="save-download.png">icons/Save-download.png</file>
+        <file alias="save-upload.png">icons/Save-upload.png</file>
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>KBDHost_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
